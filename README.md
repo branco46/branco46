@@ -1,5 +1,5 @@
-- # SOBRE MIM  
-- 
+- #sobre mim 
 - 👋 Olá, eu sou o @branco46
 - 👍 meu email de contato é vinicius.pereira.ferreira@escola.pr.gov.br
-- 👀 estou interessado em aprender a progamar ...
+- 👀 estou interessado em aprender a progamar novas linguagens
+- eu estou aprendendo programar recentemente a linguagens de JavaScript e Scrath
